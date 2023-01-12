@@ -13,7 +13,7 @@ const AboutMeContent = () => {
             <ContainerContent>
                 <Title>Обо мне</Title>
                 <Grid>
-                    <PhotoContainer>
+                    <PhotoContainer className={"animate__animated animate__fadeIn"}>
                         <MyPhoto src={myPhotoImg}/>
                     </PhotoContainer>
 

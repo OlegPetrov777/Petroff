@@ -20,7 +20,7 @@ const MainContent = () => {
             <Wrapper>
                 <ContainerContent>
                     <Grid>
-                        <SocialNetworkContainer>
+                        <SocialNetworkContainer className={"animate__animated animate__fadeIn"}>
                             <a href={"https://t.me/chez737"} target="_blank">
                                 <SocialNetworkIcon src={TgIcon}/>
                             </a>
@@ -32,12 +32,12 @@ const MainContent = () => {
                             </a>
                         </SocialNetworkContainer>
 
-                        <TextContainer>
+                        <TextContainer className={"animate__animated animate__fadeIn"}>
                             <Title>Петров Олег Игоревич</Title>
                             <SubTitle>Frontend Developer</SubTitle>
                         </TextContainer>
 
-                        <PhotoContainer>
+                        <PhotoContainer className={"animate__animated animate__bounceInRight"}>
                             <MyPhoto src={myPhotoImg}/>
                         </PhotoContainer>
                     </Grid>
