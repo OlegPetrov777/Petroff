@@ -1,0 +1,62 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "ОРМ для магазина техники",
+      "tools": [
+        "Java",
+        "JavaFX",
+        "Postgresql"
+      ],
+      "description": "Моей курсовой работой было Клиент-Серверное приложение на Java. Бэкенд писал, используя фрэймворк SpringBoot, а фронтенд - JavaFX. Эта работа дало полное понимание работы Rest API.",
+      "img": "orm",
+      "url": "https://github.com/OlegPetrov777/JAVA-Kursa4"
+    },
+    {
+      "id": 2,
+      "title": "Социальная сеть",
+      "tools": [
+        "JavaScript",
+        "React Js"
+      ],
+      "description": "Проект, который я писал в ходе изучения React и Redux. Мне очень помог канал IT-KAMASUTRA и его плейлист, ссылку которого оставлю ниже.",
+      "img": "social_network",
+      "url": "https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8"
+    },
+    {
+      "id": 3,
+      "title": "Сайт с рецептами",
+      "tools": [
+        "JavaScript",
+        "React Js",
+        "Postgresql"
+      ],
+      "description": "Данная работа была нужна для университета на дисциплине по Web-разработке. На сайте можно зарегистрироваться и войти в свою учетную запись. Это позволяет добавлять рецепты, которые видны другим пользователям.",
+      "img": "recipe",
+      "url": ""
+    },
+    {
+      "id": 4,
+      "title": "Сайт ХаусХакер",
+      "tools": [
+        "JavaScript",
+        "Next Js",
+        "PHP",
+        "Laravel"
+      ],
+      "description": "Это микросервис, над которым я работал в Домструкторе. Он подсчитывает стоимость дома и генерирует подробную смету, исходя из введенных данных пользователем.",
+      "img": "house_hacker",
+      "url": "https://househacker.ru/"
+    },
+    {
+      "id": 5,
+      "title": "ТГ-бот с прогнозом погоды",
+      "tools": [
+        "Java"
+      ],
+      "description": "Обычный телеграм-бот, который показывает погоду в указанном регионе.",
+      "img": "tgBot",
+      "url": "https://github.com/OlegPetrov777/Telegram-Bot-Weather"
+    }
+  ]
+}
